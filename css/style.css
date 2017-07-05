@@ -1,50 +1,3 @@
-/* FONT-FACE */
-
-@font-face {
-    font-family: 'robotomedium';
-    src: url(../font/robotomedium.ttf) format('truetype');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'robotoregular';
-    src: url(../font/robotoregular.ttf)format('truetype');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'robotolight';
-    src: url(../font/robotolight.ttf)format('truetype');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'ptsansbold';
-    src: url(../font/PT_Sans-Web-Bold.ttf)format('truetype');
-    font-weight: bold;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'ptsansregular';
-    src: url(../font/PT_Sans-Web-Regular.ttf)format('truetype');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'opensanslight';
-    src: url(../font/OpenSans-Light.ttf)format('truetype');
-    font-weight: lighter;
-    font-style: normal;
-}
-
-
-/* FIN FONT-FACE */
-
 
 html{
     height:100%;
@@ -117,10 +70,6 @@ h1:hover {
     margin: 0 auto;
 }
 
-
-#main{
-    display: none;
-}
 #logo {
     width: 100%;
     margin-top: 135px;
